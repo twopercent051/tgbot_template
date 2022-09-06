@@ -20,7 +20,7 @@ class TgBot:
 
 @dataclass
 class Miscellaneous:
-    other_params: str = None
+    api_rate_token: str = None
 
 
 @dataclass
